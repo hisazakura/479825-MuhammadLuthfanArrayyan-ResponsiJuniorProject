@@ -16,5 +16,6 @@ namespace Responsi_2.Models
             Id = id;
             Nama = nama;
         }
+
     }
 }
